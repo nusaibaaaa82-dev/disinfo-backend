@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "id": "roberta_immigrant",
+      "name": "RoBERTa (US Immigrant)",
+      "repo_id": "nusaiba19/roberta-immigrant-hate-speech",
+      "type": "binary"
+    },
+    {
+      "id": "xlmr_binary",
+      "name": "XLM-R (X-Fact Binary)",
+      "repo_id": "nusaiba19/xlmr-xfact-binary",
+      "type": "binary"
+    },
+    {
+      "id": "xlmr_7class",
+      "name": "XLM-R (X-Fact 7-Class)",
+      "repo_id": "nusaiba19/xlmr-xfact-7class",
+      "type": "multiclass"
+    }
+  ]
+}
